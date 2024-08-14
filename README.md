@@ -15,7 +15,10 @@ Deixo aqui um exemplo feito por mim utilizando esta função
 [Exemplo 2](https://www.tinkercad.com/things/cWPaSWIiasQ-sensor-ldr-sombra)
 
 ## Exemplo Físico
-https://github.com/user-attachments/assets/39600d7b-6fd8-4ccc-8199-6a9e1b866c48
+<div align="center">
+https://github.com/user-attachments/assets/8ccd54e6-fc9f-494e-b665-ada8693e707c
+</div>
+
 
 # Autores
 - [@Victor-Lis](https://github.com/Victor-Lis)
